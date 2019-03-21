@@ -2,7 +2,7 @@
 
 Contents are totally crawled from https://redis.io/commands.
 
-Grouped and ordered by Time Complexity
+Grouped by command type and ordered by time complexity.
 
 | Group | Command | Time Complexity |
 | :--- | :--- | :--- |
