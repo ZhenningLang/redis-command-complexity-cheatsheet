@@ -1,8 +1,10 @@
 # Redis commands time complexity cheat sheet
 
-Contents are totally crawled from https://redis.io/commands
+Contents are totally crawled from https://redis.io/commands.
 
-| Group | Command | TimeComplexity |
+Grouped and ordered by Time Complexity
+
+| Group | Command | Time Complexity |
 | :--- | :--- | :--- |
 | Cluster | cluster nodes | O(N) |
 |  | cluster keyslot | O(N) |
